@@ -9,7 +9,7 @@ Hi there! 👋 I'm **Ansh Arora**, a final-year **Computer Science Engineering**
 
 🎯 I'm currently working on a MERN stack project that integrates real-time weather data for personalized travel experiences.
 
-🏆 Recently led a team at **Hack The Mountain Hackathon**, building a blockchain-integrated gaming prototype.
+🏆 Recently participated at **Hack The Mountain Hackathon**.
 
 🌱 Open to **internships, product-focused roles, and collaborative tech projects** starting in 2025!
 
