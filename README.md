@@ -71,7 +71,7 @@ Hi there! 👋 I'm **Ansh Arora**, a final-year **Computer Science Engineering**
 
 - 🌍 **TripX Travel App** – A travel package planner with weather integration and dynamic filters.  
   _Tech: MERN Stack, JWT, Weather API_  
-  [Live Site](https://tripx-webapp-client.onrender.com/) | [GitHub](#)
+  [Live Site](https://tripx-home.onrender.com/) | [GitHub](https://github.com/AnshArora07/Tripx-WebApp)
 
 ---
 
